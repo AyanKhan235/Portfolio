@@ -1,12 +1,12 @@
-import Img from "../../public/images/ayan.jpg";
+// import Img from "../../public/images/ayan.jpg";
 import { GiClawSlashes, GiMailbox, GiPhone, GiCalendar } from "react-icons/gi";
 function Aside() {
   return (
     <aside className="sidebar">
       <div className="sidebar-info">
         <figure className="avatar-box">
-          <img src={Img} alt="" width="80" />
-          {/* <img src="/images/ayan.jpg" alt="" width="250px" height="220px" /> */}
+          {/* <img src={Img} alt="" width="80" /> */}
+          <img src="/images/ayan.jpg" alt="" width="80" />
         </figure>
         <div className="info-content">
           <h1 className="name">Ayan Khan</h1>

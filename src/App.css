@@ -222,6 +222,7 @@ article.active {
   text-transform: capitalize;
 }
 
+
 .h2 { font-size: var(--fs-1); }
 
 .h3 { font-size: var(--fs-2); }

@@ -43,13 +43,13 @@ const Resume = () => {
           <h3 className="h3">Internship</h3>
         </div>
         <ol className="timeline-list">
-          <Internship
+          {/* <Internship
             title="Web Application developer intern in React"
             name="Anwimac technologies"
             date="11/2022 - 01/2023"
             description="As a React Intern Anwimac technologies, my role was involved working in various
             projects related to React.js"
-          />
+          /> */}
           <Internship
             title="Full Stack developer intern"
             name="Bharat Intern"
